@@ -4,3 +4,5 @@
 
 * `data/metadata/experiment-design.tsv`
 * `data/raw/raw-counts.tsv`
+
+## Запустить файл BioProj.Proj
